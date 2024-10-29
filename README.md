@@ -1,4 +1,4 @@
-# Explore E-commerce Dataset
+# E-commerce User Analysis
 ## I. Introduction
 This project is about exploring an eCommerce dataset using SQL in Google BigQuery. The dataset comes from the public Google Analytics dataset and includes information from an eCommerce website.
 ## II. Requirements
